@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\bin\Debug\net6.0\CalculodeAreas.exe
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\bin\Debug\net6.0\CalculodeAreas.deps.json
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\bin\Debug\net6.0\CalculodeAreas.runtimeconfig.json
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\bin\Debug\net6.0\CalculodeAreas.dll
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\bin\Debug\net6.0\ref\CalculodeAreas.dll
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\bin\Debug\net6.0\CalculodeAreas.pdb
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.dll
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\ref\CalculodeAreas.dll
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.pdb
+C:\Users\ASUS\Desktop\C\CalculoDeAreas\CalculodeAreas\obj\Debug\net6.0\CalculodeAreas.genruntimeconfig.cache
